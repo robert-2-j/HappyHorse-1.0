@@ -34,7 +34,7 @@ What remains unclear is the identity of the team behind it. The claims tying it 
 
 ### April 8, 2026, 3:00 AM
 
-`@ArtificialAnlys` introduced `HappyHorse 1.0` as a pseudonymous video model that was already **#1** in no-audio rankings and **#2** in the with-audio ranking.
+`@ArtificialAnlys` introduced [`HappyHorse 1.0`](https://www.happyhorse20.com) as a pseudonymous video model that was already **#1** in no-audio rankings and **#2** in the with-audio ranking.
 
 Original post: <https://x.com/ArtificialAnlys/status/2041591989083500933>
 
@@ -118,7 +118,7 @@ GitHub may not inline-play these attachments in every context, but the MP4 backu
 - `@zephyr_z9` amplification post: <https://x.com/zephyr_z9/status/2041806070545575940>
 - `@gmi_cloud` re-test post: <https://x.com/gmi_cloud/status/2041952066873221288>
 - `@Physalis20` counter-post: <https://x.com/Physalis20/status/2041996617415278958>
-
+- Seedance 2.0 videos: <https://www.seedance2ai.app>, <https://www.seedance2.ink>
 ## Working Summary
 
 The safest concise formulation is:
